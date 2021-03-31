@@ -1,4 +1,4 @@
-# A little about me
+# A Little About Me
 Hello, I’m M Sammy Ivan Kurniawan! A soon to be industrial engineer that's interested in Data Analytics & Data Science. I am currently still pursuing my bachelor's degree in
 Institut Teknologi Bandung Indonesia, at the same time enrolling in Data Science courses in the internet to develop and sharpen my Data Wrangling skills. I'm interested in
 machine learning, deep learning, and mostly natural language processing. So far, I am adept in using Python and SQL Server to help me in my everyday data wrangling needs.
